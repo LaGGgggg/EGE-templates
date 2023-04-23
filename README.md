@@ -1,3 +1,7 @@
+![GitHub](https://img.shields.io/github/license/LaGGgggg/EGE-templates?label=License)
+![GitHub watchers](https://img.shields.io/github/watchers/LaGGgggg/EGE-templates)
+![GitHub last commit](https://img.shields.io/github/last-commit/LaGGgggg/EGE-templates)
+
 # Шаблоны заданий ЕГЭ по информатике
 
 ### Общее
